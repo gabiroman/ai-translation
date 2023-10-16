@@ -1,6 +1,10 @@
 # ai-translation
 Translator web app with ai using traslator service of Azure.
 
+## Demo
+![Web capture_16-10-2023_114552_127 0 0 1](https://github.com/gabiroman/ai-translation/assets/45351498/ab97e02f-8cae-446f-8895-18701e42b1c1)
+![Web capture_16-10-2023_11464_127 0 0 1](https://github.com/gabiroman/ai-translation/assets/45351498/0ae14d07-b7ab-46c0-be24-dfa21fe8a3a6)
+
 ## Prerequisites
 Here's what you need to be able to run ai-translator:
 - Azure account
