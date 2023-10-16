@@ -10,7 +10,7 @@ Here's what you need to be able to run ai-translator:
 
 ### 1. Clone this repository
 ```shell
-git clone 
+git clone https://github.com/gabiroman/ai-translation.git
 cd ai-translation
 ```
 
